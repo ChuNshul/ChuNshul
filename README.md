@@ -1,6 +1,6 @@
 <!-- ====================== HEADER BANNER ====================== -->
 <a href="https://github.com/ChuNshul">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:5D3FD3,100:00CED1&height=220&section=header&text=Hi%20there%2C%20I'm%20Song%20Linhan%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Application%20Engineer%20%C2%B7%20LLM%20%26%20Multi-Agent%20Systems%20%C2%B7%20Computer%20Vision&descSize=18&descAlignY=58&animation=fadeIn" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:5D3FD3,100:00CED1&height=220&section=header&text=Hi%20there%2C%20I%20am%20Song%20Linhan%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Application%20Engineer%20%C2%B7%20LLM%20%2F%20Multi-Agent%20Systems%20%C2%B7%20Computer%20Vision&descSize=18&descAlignY=58&animation=fadeIn" alt="header" />
 </a>
 
 <!-- ====================== TYPING ANIMATION ====================== -->
@@ -24,25 +24,57 @@
 <!-- ====================== ABOUT ME ====================== -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 关于我 · About Me
 
-```yaml
-name:       宋林瀚 (Song Linhan)
-role:       AI Application Engineer / LLM Systems Researcher
-education:  MSc @ NTU Singapore (Signal Processing & ML, GPA 4.81/5.0)
-            BEng @ BUPT × Queen Mary University of London (First-Class Honours)
-now:        Building agentic AI · Structured-UI generation · VLM evaluation
-prev:       AI Application Intern @ Baidu HQ 百度总部
-focus:      [ Multi-Agent Systems, RAG, Computer Vision, Quant AI ]
-languages:  [ 中文 (native), English (IELTS 6.5, all-English instruction) ]
-motto:      "AI 驱动 + 数学兜底 —— 让智能体既大胆又可靠"
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 教育背景
+
+**新加坡南洋理工大学 NTU**
+硕士 · 信号处理与机器学习
+`GPA 4.81 / 5.0`
+
+**北京邮电大学 × 伦敦玛丽女王大学**
+本科 · 物联网工程（中外合作办学）
+`加权 85.42 / 100 · 工科一等学位`
+
+### 💼 当前状态
+
+```text
+🔭 Working on   SPUR · MECA-UI · AlphaAgent-Quant
+🌱 Exploring    Agentic AI · Quant Research · VLM Eval
+💬 Ask me about LLM / Multi-Agent / CV / RAG
+📫 Reach me     2621680195@qq.com
 ```
 
-- 🔭 目前专注于 **LLM 多智能体系统** 与 **结构化 UI 生成**（硕士毕业论文 *SPUR*，企业合作项目 WABI）
-- 📝 **AAAI 在投一作** —— *MECA-UI*：多专家校准与对齐的 UI 评估框架
-- 🧠 前百度创新技术组实习生，主导城市巡检车视觉模型（PPYOLO-E）训练与边缘端部署
-- 📄 发表论文 *Research on Fire Detection Based on YOLOv9*（ICETCI 2024, EI 收录，引用 10+）
-- 🏆 优秀毕设 Top 2%（17/800+）· 基于 YOLOv10 + BoT-SORT 的交通事故检测系统
-- 🌱 正在探索 Agentic AI、量化投研系统与 AI 视觉自检闭环
-- 💬 聊聊 LLM / Agent / CV / 量化，随时欢迎 —— *Let's build cool things!*
+</td>
+<td width="50%" valign="top">
+
+### ✨ 高光时刻
+
+🏢 &nbsp;前 **百度总部** 创新技术组 AI 应用实习生
+&nbsp;&nbsp;&nbsp;主导巡检车视觉模型训练与边缘端部署
+
+📝 &nbsp;**AAAI 在投一作** · *MECA-UI*
+&nbsp;&nbsp;&nbsp;多专家校准与对齐的 UI 评估框架
+
+📄 &nbsp;**ICETCI 2024 一作**（EI 收录，引用 10+）
+&nbsp;&nbsp;&nbsp;*Fire Detection Based on YOLOv9*
+
+🏆 &nbsp;优秀毕设 **Top 2%**（17 / 800+）
+&nbsp;&nbsp;&nbsp;YOLOv10 + BoT-SORT 交通事故检测系统
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+> 💡 **"AI 驱动 + 数学兜底 —— 让智能体既大胆又可靠"**
+
+</div>
+
+
 
 <!-- ====================== TECH STACK ====================== -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> 技术栈 · Tech Stack
