@@ -98,8 +98,8 @@ motto:      "AI 驱动 + 数学兜底 —— 让智能体既大胆又可靠"
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChuNshul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=8A2BE2&icon_color=00CED1" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChuNshul&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=8A2BE2" alt="top langs" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChuNshul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=8A2BE2&icon_color=00CED1" alt="stats" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChuNshul&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=8A2BE2" alt="top langs" />
 
 <br/>
 
@@ -112,7 +112,7 @@ motto:      "AI 驱动 + 数学兜底 —— 让智能体既大胆又可靠"
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ChuNshul&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=ChuNshul&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -156,8 +156,8 @@ motto:      "AI 驱动 + 数学兜底 —— 让智能体既大胆又可靠"
 
 <div align="center">
 
-[![Repo Card - bongopet](https://github-readme-stats.vercel.app/api/pin/?username=ChuNshul&repo=bongopet&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=8A2BE2&icon_color=00CED1)](https://github.com/ChuNshul/bongopet)
-[![Repo Card - WABI](https://github-readme-stats.vercel.app/api/pin/?username=ChuNshul&repo=WABI_NTU_Agent_Frontend&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=8A2BE2&icon_color=00CED1)](https://github.com/ChuNshul/WABI_NTU_Agent_Frontend)
+[![Repo Card - bongopet](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ChuNshul&repo=bongopet&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=8A2BE2&icon_color=00CED1)](https://github.com/ChuNshul/bongopet)
+[![Repo Card - WABI](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ChuNshul&repo=WABI_NTU_Agent_Frontend&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=8A2BE2&icon_color=00CED1)](https://github.com/ChuNshul/WABI_NTU_Agent_Frontend)
 
 </div>
 
