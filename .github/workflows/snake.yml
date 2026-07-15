@@ -1,0 +1,35 @@
+name: Generate Contribution Snake 🐍
+
+# 贪吃蛇动画：随贡献图自动更新
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # 每 12 小时自动刷新一次
+  workflow_dispatch:          # 支持手动触发
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg?palette=github-light
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#8A2BE2&color_dots=#1a1b27,#5D3FD3,#8A2BE2,#00CED1,#ffffff
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4.0.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
